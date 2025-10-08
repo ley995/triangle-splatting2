@@ -1,0 +1,13 @@
+git+https://github.com/facebookresearch/pytorch3d.git@5043d15361d16a7093b4b60572c5f730c6c83308
+mmengine
+mmcv
+lpips
+plyfile
+timm
+pygame
+cmake
+mediapy
+opencv-python
+matplotlib
+pybind11
+trimesh
